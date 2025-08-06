@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Welcome to Medico AI Agent
 
 ## Project info
 
@@ -8,7 +8,7 @@
 
 There are several ways of editing your application.
 
-**Use Lovable**
+**Use AI Agent**
 
 Simply visit the [Lovable Project](https://lovable.dev/projects/21f4c44c-c990-4d3b-be92-9282253bdc53) and start prompting.
 
