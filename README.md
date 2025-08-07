@@ -1,4 +1,4 @@
-🚀 **Medico AI Agent** – Transforming Medical System Management with AI
+🚀 **Medicare AI Agent** – Transforming Medical System Management with AI
 The Medico AI Agent is an intelligent, conversational assistant designed to streamline and automate various hospital and clinic management tasks. Leveraging advanced natural language processing (NLP) and machine learning, it enhances operational efficiency, reduces administrative burden, and improves patient care.
 
 ✅ **Key Benefits**
@@ -54,7 +54,7 @@ Manages high volumes of concurrent queries with consistent and reliable response
 
 Ensures standardized communication across all touchpoints.
 
-🏥 Why **Medico AI Agent**?
+🏥 Why **Medicare AI Agent**?
 The Medico AI Agent revolutionizes healthcare administration by delivering faster, smarter, and more human-like interactions. It is an essential step toward AI-driven hospital automation, enabling cost-effective, scalable, and patient-centric healthcare delivery.
 
 
